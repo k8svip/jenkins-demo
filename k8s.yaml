@@ -11,7 +11,7 @@ spec:
     spec:
       containers:
       - image: k8svip/jenkins-demo:<BUILD_TAG>
-        imagePullPolicy: IfNotPresent
+        imagePullPolicy:IfNotPresent
         name: jenkins-demo
         env:
         - name: branch
