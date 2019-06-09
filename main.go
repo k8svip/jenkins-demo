@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("BRANCH_NAME:", os.Getenv("branch"))
 	fmt.Println("BRANCH_NAME:", os.Getenv("branch"))
 	fmt.Println("I Love Jenkins")
+	fmt.Println("I Love Jenkins")
 }
