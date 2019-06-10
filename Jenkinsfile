@@ -1,4 +1,4 @@
-node('guoxl-jnlp') {
+node('guoxl3-jnlp') {
     stage('Clone'){
         echo "1. Clone Stage"
        // git url: "https://github.com/k8svip/jenkins-demo.git"
